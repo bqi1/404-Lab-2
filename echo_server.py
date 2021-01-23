@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import socket, time
 import multiprocessing
-
+# Most code here is taken from TA's code in eClass, with minor adjustments
 
 PORT = 8001
 BUFFER_SIZE = 1024
