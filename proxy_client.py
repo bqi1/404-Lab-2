@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import socket
 
 def send_data(serversocket,payload):
